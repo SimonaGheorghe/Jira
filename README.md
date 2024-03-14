@@ -116,4 +116,11 @@ Link to Bugs report: [link](https://github.com/SimonaGheorghe/Jira/blob/main/Ghe
 ### 3.8. Test completion report
 ![Completionreport](https://github.com/SimonaGheorghe/Jira/blob/main/Test_completion_report.jpg)
 
+###   3.9. Schedule <ul> 
+<li> We will have 10 days of testing; </li>
+<li> We have 30 test cases; </li>
+<li> In order to finish the test run, we would need to run around 3 test per day. </li>
+
+
+
 
