@@ -94,6 +94,23 @@ Link to Test Plan: [link](https://github.com/SimonaGheorghe/Jira/blob/main/Test%
 The test conditions will be created based on the business requirements validated in the test analysis phase and will represent the features to be tested and transformed into test cases.
 
 ###  3.3. Test cases
-Link to test cases: [link](
+Link to test cases: [link](https://github.com/SimonaGheorghe/Jira/blob/main/GheorgheSimonaStefania-Tests-Steps.pdf)
+
+### 3.4. Daily/Weekly/Monthly test summary report
+Link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc.): [link](https://github.com/SimonaGheorghe/Jira/blob/main/Monthly_summary.pdf)
+![monthlysummary](https://github.com/SimonaGheorghe/Jira/blob/main/Monthly_summary%20.png)
+![monthlysummary](https://github.com/SimonaGheorghe/Jira/blob/main/Monthly_summary2.png)
+
+### 3.5. Traceability matrix
+Link to Traceability Matrix: [link](https://github.com/SimonaGheorghe/Jira/blob/main/Traceability_Matrix.pdf)
+
+### 3.6. Test case results
+Link to Test case results:  [link](https://github.com/SimonaGheorghe/Jira/blob/main/GheorgheSimonaStefania-Tests-Execution.pdf)
+
+### 3.7. Bugs report
+Link to Bugs report: [link](https://github.com/SimonaGheorghe/Jira/blob/main/GheorgheSimonaStefania-Bugs.pdf)
+
+### 3.8. Test completion report
+![Completionreport](https://github.com/SimonaGheorghe/Jira/blob/main/Test_completion_report.jpg)
 
 
