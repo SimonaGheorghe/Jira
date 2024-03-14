@@ -92,6 +92,9 @@ Link to Test Plan: [link](https://github.com/SimonaGheorghe/Jira/blob/main/Test%
 
 ### 3.2. Test conditions 
 The test conditions will be created based on the business requirements validated in the test analysis phase and will represent the features to be tested and transformed into test cases.
+Link to Epic: [link](https://github.com/SimonaGheorghe/Jira/blob/main/GheorgheSimonaStefania-Epic.pdf)
+Link to Stories: [link](https://github.com/SimonaGheorghe/Jira/blob/main/GheorgheSimonaStefania-Stories.pdf)
+Link to Tasks: [link](https://github.com/SimonaGheorghe/Jira/blob/main/GheorgheSimonaStefania-Tasks.pdf)
 
 ###  3.3. Test cases
 Link to test cases: [link](https://github.com/SimonaGheorghe/Jira/blob/main/GheorgheSimonaStefania-Tests-Steps.pdf)
